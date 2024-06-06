@@ -1,5 +1,5 @@
 {
-    "name": "PulseWidthP0AnalogPeriod",
+    "name": "DuckArcadeSpeed&Direction",
     "description": "",
     "dependencies": {
         "core": "*",
