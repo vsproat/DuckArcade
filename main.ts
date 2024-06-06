@@ -35,3 +35,6 @@ DuckSpeed = 1
 let duckSpeedInverse = 400
 pins.setAudioPinEnabled(false)
 pins.setPull(DigitalPin.P0, PinPullMode.PullUp)
+basic.showArrow(ArrowNames.East)
+basic.pause(1000)
+basic.showNumber(DuckSpeed)
